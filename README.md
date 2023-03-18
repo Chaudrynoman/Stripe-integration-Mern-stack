@@ -1,4 +1,6 @@
-# Stripe-integration-Mern-stack
+                                                           # Stripe-integration-Mern-stack
+
+# Frontend
 
 ## Stripe Payment Form
 This code provides a simple Stripe payment form that can be used to collect payments from users. It uses the Stripe API to securely handle payments and the Stripe Checkout component to display a payment form that can be easily customized to fit your needs.
@@ -19,7 +21,7 @@ To customize the payment form, you can modify the `client/src/CheckoutForm.js` f
 3. Email: The email address of the person making the payment.
 To add additional fields or modify the behavior of the form, you can modify the JSX code in src/App.js
 
-# Stripe Payment Form Backend
+# Backend
 This is an example of a backend implementation for the Stripe payment form using a MERN (MongoDB, Express, React, Node.js) stack. It uses the Stripe API to handle payments and integrates with the frontend code provided in Stripe-integration-Mern-stack.
 
 ## Getting Started
